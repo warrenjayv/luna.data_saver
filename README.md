@@ -1,4 +1,4 @@
-# luna.saver
+# luna.data_saver
 `a compact static save and load for unity`
 
 example:
