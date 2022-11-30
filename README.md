@@ -12,7 +12,7 @@ public class save_test {
   
   void Awake() {
   
-      data = new_saved();
+      data = new saved_data ();
       saver.identity ( data ); 
   }
   
