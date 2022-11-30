@@ -1,5 +1,5 @@
 # luna.saver
-`save and load for unity`
+`a compact static save and load for unity`
 
 example:
 ```csharp
