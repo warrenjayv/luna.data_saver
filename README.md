@@ -1,7 +1,7 @@
 # luna.data_saver
 `a compact static save and load for unity`
 
-example:
++ example:
 ```csharp
 using luna.data_saver;
 
