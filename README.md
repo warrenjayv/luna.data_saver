@@ -5,7 +5,7 @@ example:
 ```csharp
 using luna.data_saver;
 
-public class save_test {
+public class save_test : MonoBehaviour {
 
   // data containing objects
   saved_data data;
