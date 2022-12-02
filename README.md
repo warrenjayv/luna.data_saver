@@ -54,3 +54,4 @@ public class save_test : MonoBehaviour {
   + files list and selection
   + google play service
   + encryption
+  + json / xml support
