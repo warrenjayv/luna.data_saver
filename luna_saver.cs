@@ -35,6 +35,7 @@ namespace luna
 
                 if (! File.Exists(root_path + file_name)) {
                     log("file doesn't exist: " + file_name);
+                    return;
                 }
 
                 BinaryFormatter bf = new BinaryFormatter( );
